@@ -46,5 +46,5 @@ This is a feature-rich To-Do application built using React, Redux, and Redux Thu
 - Tailwind CSS for styling
 - Mock API integration
 
-=
+
 
